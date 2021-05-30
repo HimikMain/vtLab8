@@ -1,0 +1,15 @@
+.input{
+	margin: 10px;
+}
+
+th, td {
+	padding: 10px;
+}
+
+th {
+	background-color: gray;
+}
+
+td {
+	background-color: #b1b3b1;
+}
